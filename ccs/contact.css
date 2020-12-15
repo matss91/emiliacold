@@ -1,0 +1,50 @@
+body{
+    
+
+    
+   
+    
+
+    font-family:open sans;
+ 
+}
+p{
+    line-height: 100%; 
+     
+     }
+
+     h3{
+         
+         margin-top:50px;
+         }
+
+         h4{
+         
+            line-height: 40%; 
+            }
+
+            ul{
+                margin-left:85%;
+                margin-top:-1500px;
+            }
+            iframe {
+                display: block;       /* iframes are inline by default */
+                background: #000;
+                border: none;         /* Reset default border */
+                height: 450px;        /* Viewport-relative units */
+                width:100% ;
+                margin-top:250px;
+            }
+
+
+            li.links{
+
+                margin-top: 0px;
+                margin-left:700px;
+
+            }
+            ul.iconos{
+                margin-top: 0px;
+                margin-left:830px;
+
+            }

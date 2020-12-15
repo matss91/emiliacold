@@ -1,0 +1,50 @@
+
+
+
+body{
+background-image:url('../img/emilia-home.jpg') ;
+  
+background-size:87.5%;
+background-repeat:no-repeat;
+background-position-x:right;
+font-family:open sans;
+
+
+
+
+
+};
+ul li{
+    list-style:none;
+
+}
+
+ul li a{
+    text-decoration:none;
+    color:black;
+}
+
+ul{
+    line-height:35px;
+}
+
+ul a i{
+color:black;
+
+}
+h2{
+margin-top: 150px;
+font-family:work sans;
+font-weight:300;
+margin-left:35px;
+letter-spacing:5px;
+
+}
+h1{
+margin-top:150px;
+font-family:ralewat;
+font-size:72px;
+margin-left:35px;
+background-color:rgba(255,255,255,0.5)
+
+}

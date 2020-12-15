@@ -1,0 +1,70 @@
+
+body{
+    background-image:url('../img/emilia-music-top.jpg') ;
+  
+    background-size:100% 200px;
+    background-repeat:no-repeat;
+    background-position-x:right;
+    background-position-y:25px;
+    
+    font-family:open sans;
+}
+
+
+    ul.irapagina{
+        margin-left:880px;
+        margin-top:-100px;
+    };
+    iframe {
+        display: block;       /* iframes are inline by default */
+        background: #000;
+        border: none;         /* Reset default border */
+        height: 100vh;        /* Viewport-relative units */
+        width: 100vw;
+    }
+    h1{
+margin-top:400px;
+font-size:72px;
+
+
+    }
+    h2{
+        margin-top:100px;
+        margin-left:-40px; 
+    }
+    
+    ul.textv1{
+        margin-top:-300px;
+        margin-left:-40px; 
+    }
+
+    ul.textv2{
+        margin-top:-300px;
+        margin-left:-40px; 
+    }
+ul.video1{
+    margin-left:-40px; 
+margin-top:-300px;
+}
+ul.video2{
+    margin-left:-40px; 
+margin-top:-300px;
+}
+ul.img{
+    margin-left:-40px; 
+margin-top:0px;
+}
+
+li.links{
+    margin-top:70px;
+    margin-left:730px;
+}
+ul.iconos{
+    margin-left:835px;
+}
+
+ul.intro{
+    margin-top:50px;
+
+
+}

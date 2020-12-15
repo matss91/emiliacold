@@ -1,0 +1,38 @@
+body{
+    background-image:url('../img/emilia-about.jpg') ;
+  
+    background-size:700px 600px;
+    background-repeat:no-repeat;
+    background-position-x:right;
+    background-position-y:25px;
+    
+    font-family:open sans;
+}
+
+
+h3{
+    color:rgb(133, 158, 148)
+
+}
+
+p{
+    color:rgb(16, 109, 70)
+
+}
+
+h1{
+
+    font-size:55px;
+  
+}
+
+
+
+ul.paginas{
+    margin-top: -380px;
+    margin-left:680px;
+    }
+    ul.iconos{
+        margin-top: 0px;
+        margin-left:830px;
+        }
